@@ -1,5 +1,3 @@
-//Dice Script
-
 ::d6::
 
 If(count < 6)
